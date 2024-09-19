@@ -25,7 +25,7 @@
     {
         font-family: 'Pixel Emulator';
         font-size: 1.5em;
-        color: #378a00;
+        color: #ffffff;
     }
 
     .menu__modos
@@ -43,19 +43,18 @@
         gap: 5px;
         
         width: 25%;
-        border: 2px dashed #378a00;
+        border: 2px dashed #ffffff;
         border-radius: 12px;
         padding: 5px 10px;
 
-        background-color: #378a0065;
-        box-shadow: 0px 4px 10px 1px #1c380856;
+        background-color: #e3511c;
 
         transition: all 150ms;
     }
 
     .menu__container--escolhido
     {
-        background-color: #72be3e65;
+        background-color: #ffffff;
         transform: scale(1.1);
     }
 
@@ -63,7 +62,7 @@
     {
         font-weight: 600;
         font-size: 1.1em;
-        color: #693d0e;
+        color: #000000;
     }
 
     .menu__bombas
@@ -82,7 +81,7 @@
     {
         font-weight: 600;
         font-size: 1.1em;
-        color: #7b4d1c;
+        color: #000000;
     }
 
     .menu__botao
@@ -91,13 +90,12 @@
         align-items: center;
         justify-content: center;
 
-        background-color: #378a0065;
+        background-color: #ffffff;
         width: 20%;
         height: 80%;
 
-        border: 2px solid #1c410465;
+        border: 2px solid #00000065;
         border-radius: 6px;
-        box-shadow: -3px 3px 5px #2f610e65;
 
         transition: all 200ms;
     }

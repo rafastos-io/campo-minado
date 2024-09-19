@@ -11,7 +11,7 @@
 
 :root
 {
-    --gradiente-verde-background: linear-gradient(to right top, #4ebb34, #59c33e, #63cc48, #6ed451, #78dd5b, #7adf5d, #7ce05f, #7ee261, #79de5c, #74da58, #6ed653, #69d24e);
+    background-color: #191E2D;
 }
 
 body
